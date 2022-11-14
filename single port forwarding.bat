@@ -1,0 +1,1 @@
+netsh interface portproxy add v4tov4 listenport=6667 listenaddress=0.0.0.0 connectport=6667 connectaddress=172.20.46.85
