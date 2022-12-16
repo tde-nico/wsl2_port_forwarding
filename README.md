@@ -5,7 +5,7 @@
 Tools
 
 #languages
-Powershell
+PowerShell
 
 #frames and libs
 
